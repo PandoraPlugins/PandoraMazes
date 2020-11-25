@@ -1,0 +1,5 @@
+name: PandoraMaze
+version: ${project.version}
+main: me.nanigans.pandoramaze.PandoraMaze
+authors: [ProNanigans]
+description: Maze generator
